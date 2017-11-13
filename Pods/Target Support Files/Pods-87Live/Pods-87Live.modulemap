@@ -1,0 +1,6 @@
+framework module Pods_87Live {
+  umbrella header "Pods-87Live-umbrella.h"
+
+  export *
+  module * { export * }
+}
